@@ -1,0 +1,28 @@
+{
+  "name": "ts-mastery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswass101/mastery-typeScirpt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/biswass101/mastery-typeScirpt/issues"
+  },
+  "homepage": "https://github.com/biswass101/mastery-typeScirpt#readme",
+  "devDependencies": {
+    "@types/node": "^24.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
